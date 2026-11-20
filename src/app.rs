@@ -94,7 +94,7 @@ impl App {
         match key.code {
             KeyCode::Esc if !self.selected.is_empty() => self.selected.clear(),
             KeyCode::Char('q') | KeyCode::Esc => self.should_quit = true,
-            KeyCode::Char('s') => self.toggle_selected(),
+            KeyCode::Char(' ') => self.toggle_selected(),
             KeyCode::Char('a') | KeyCode::Char('A') => self.screen = Screen::Add,
             KeyCode::Char('c') => self.ask(Action::Complete),
             KeyCode::Char('d') => self.ask(Action::Delete),

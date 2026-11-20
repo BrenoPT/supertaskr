@@ -40,7 +40,7 @@ It is built on [crossterm](https://github.com/crossterm-rs/crossterm), so it sho
 | Key | Action |
 | --- | --- |
 | `↑` `↓` or `k` `j` | Move the selection |
-| `s` | Mark / unmark the highlighted task |
+| `spacebar` | Mark / unmark the highlighted task |
 | `a` | Add a task |
 | `c` | Complete the marked tasks (or the highlighted one) |
 | `d` | Delete the marked tasks (or the highlighted one) |
@@ -115,6 +115,13 @@ src/
 - [rusqlite](https://github.com/rusqlite/rusqlite) for SQLite
 - [chrono](https://github.com/chronotope/chrono) and [chrono-english](https://github.com/stevedonovan/chrono-english) for dates
 - [dirs](https://github.com/dirs-dev/dirs-rs), [anyhow](https://github.com/dtolnay/anyhow) and [rand](https://github.com/rust-random/rand)
+
+## Roadmap
+
+- [ ] Add text navigation
+- [ ] Choose your date format (day-first or month-first)
+- [ ] Localization
+- [ ] Themes
 
 ## License
 
