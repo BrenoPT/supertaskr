@@ -77,7 +77,9 @@ fn draw_footer(app: &App, frame: &mut Frame, area: Rect) {
     // match on a pair: (status message, current screen)
     let text = match (&app.status, app.screen) {
         (Some(status), _) => status.as_str(),
-        (None, Screen::List) => "a add · Spacebar select · c complete · d delete · h history · q quit",
+        (None, Screen::List) => {
+            "a add · Spacebar select · c complete · d delete · h history · q quit"
+        }
         (None, Screen::Add) => "↑/↓ change field · Enter save · Esc cancel",
         (None, Screen::Confirm(_)) => "y / Enter yes · n / Esc no",
         (None, Screen::History) => "q / Esc back",
