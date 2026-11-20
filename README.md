@@ -20,7 +20,7 @@ A fast, keyboard-driven task manager for your terminal, written in Rust.
 You need a recent stable [Rust toolchain](https://rustup.rs).
 
 ```bash
-git clone https://github.com/<your-username>/supertaskr.git
+git clone https://github.com/BrenoPT/supertaskr.git
 cd supertaskr
 cargo run --release
 ```
