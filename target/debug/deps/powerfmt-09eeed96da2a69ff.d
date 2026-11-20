@@ -1,0 +1,11 @@
+/home/breno/Projects/Dev/pessoais/supertaskr/st/target/debug/deps/powerfmt-09eeed96da2a69ff.d: /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.1/src/lib.rs /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.1/src/buf.rs /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.1/src/ext.rs /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.1/src/smart_display.rs /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.1/src/smart_display_impls.rs
+
+/home/breno/Projects/Dev/pessoais/supertaskr/st/target/debug/deps/libpowerfmt-09eeed96da2a69ff.rlib: /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.1/src/lib.rs /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.1/src/buf.rs /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.1/src/ext.rs /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.1/src/smart_display.rs /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.1/src/smart_display_impls.rs
+
+/home/breno/Projects/Dev/pessoais/supertaskr/st/target/debug/deps/libpowerfmt-09eeed96da2a69ff.rmeta: /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.1/src/lib.rs /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.1/src/buf.rs /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.1/src/ext.rs /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.1/src/smart_display.rs /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.1/src/smart_display_impls.rs
+
+/home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.1/src/lib.rs:
+/home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.1/src/buf.rs:
+/home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.1/src/ext.rs:
+/home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.1/src/smart_display.rs:
+/home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/powerfmt-0.2.1/src/smart_display_impls.rs:

@@ -1,0 +1,12 @@
+/home/breno/Projects/Dev/pessoais/supertaskr/st/target/debug/deps/color_eyre-982cd3e6eeac6092.d: /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/lib.rs /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/config.rs /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/fmt.rs /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/handler.rs /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/private.rs /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/section/mod.rs /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/section/help.rs /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/writers.rs
+
+/home/breno/Projects/Dev/pessoais/supertaskr/st/target/debug/deps/libcolor_eyre-982cd3e6eeac6092.rmeta: /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/lib.rs /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/config.rs /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/fmt.rs /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/handler.rs /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/private.rs /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/section/mod.rs /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/section/help.rs /home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/writers.rs
+
+/home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/lib.rs:
+/home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/config.rs:
+/home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/fmt.rs:
+/home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/handler.rs:
+/home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/private.rs:
+/home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/section/mod.rs:
+/home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/section/help.rs:
+/home/breno/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/color-eyre-0.6.5/src/writers.rs:

@@ -1,0 +1,24 @@
+[package]
+name = "st"
+version = "0.1.0"
+description = "The simple and blazing fast terminal todo app."
+authors = ["Breno Paim Targa <brenotarga@proton.me>"]
+license = "MIT"
+edition = "2024"
+
+[dependencies]
+anyhow = "1.0.104"
+chrono = "0.4.45"
+chrono-english = "0.2.1"
+crossterm = "0.29.0"
+dirs = "7.0.0"
+rand = "0.10.3"
+ratatui = "0.30.2"
+rusqlite = "0.41.1"
+
+# Read the optimization guideline for more details: https://ratatui.rs/recipes/apps/release-your-app/#optimizations
+[profile.release]
+codegen-units = 1
+lto = true
+opt-level = "s"
+strip = true
