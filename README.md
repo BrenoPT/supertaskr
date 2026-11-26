@@ -1,7 +1,5 @@
 # supertaskr
 
-A fast, keyboard-driven task manager for your terminal, written in Rust.
-
 `supertaskr` is a Rust rewrite of my earlier Python CLI to-do app. It keeps everything in a local SQLite database, understands natural-language due dates like "tomorrow 5pm", and makes sure you notice what's due soon or overdue.
 
 <!-- Add a screenshot or GIF here: ![supertaskr screenshot](docs/screenshot.png) -->
