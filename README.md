@@ -35,6 +35,8 @@ It is built on [crossterm](https://github.com/crossterm-rs/crossterm), so it sho
 
 ## Usage
 
+Start by running `st`.
+
 ### Task list
 
 | Key | Action |
