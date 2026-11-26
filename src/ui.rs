@@ -69,7 +69,7 @@ pub fn render(app: &mut App, frame: &mut Frame) {
 fn draw_header(app: &App, frame: &mut Frame, area: Rect) {
     let text = match &app.greeting {
         Some(greeting) => greeting.clone(),
-        None => format!("Supertask ({} pending)", app.tasks.len()),
+        None => format!("Supertaskr ({} pending)", app.tasks.len()),
     };
     frame.render_widget(Paragraph::new(text), area);
 }
